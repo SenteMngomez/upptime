@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/omnitech-api-f8cyd2ghe8hmgheu.southafricanorth-01.azurewebsites.net.ico",
     "slug": "driving-tracker-api",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 1035,
-    "timeDay": 1142,
-    "timeWeek": 1064,
-    "timeMonth": 1049,
-    "timeYear": 1035,
+    "uptimeYear": "99.93%",
+    "time": 1039,
+    "timeDay": 1190,
+    "timeWeek": 1079,
+    "timeMonth": 1051,
+    "timeYear": 1039,
     "dailyMinutesDown": {
       "2026-07-30": 37
     }
