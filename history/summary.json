@@ -4,19 +4,20 @@
     "url": "https://omnitech-api-f8cyd2ghe8hmgheu.southafricanorth-01.azurewebsites.net/health",
     "icon": "https://icons.duckduckgo.com/ip3/omnitech-api-f8cyd2ghe8hmgheu.southafricanorth-01.azurewebsites.net.ico",
     "slug": "driving-tracker-api",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
-    "time": 1042,
-    "timeDay": 1184,
-    "timeWeek": 1082,
-    "timeMonth": 1055,
-    "timeYear": 1042,
+    "status": "up",
+    "uptime": "98.47%",
+    "uptimeDay": "49.27%",
+    "uptimeWeek": "92.75%",
+    "uptimeMonth": "98.33%",
+    "uptimeYear": "98.47%",
+    "time": 2001,
+    "timeDay": 13917,
+    "timeWeek": 5338,
+    "timeMonth": 2216,
+    "timeYear": 2001,
     "dailyMinutesDown": {
-      "2026-07-30": 37
+      "2026-07-30": 37,
+      "2026-09-03": 731
     }
   }
 ]
